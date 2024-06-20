@@ -1,0 +1,7 @@
+[package]
+name = "clippy_manual_unwrap_or_default"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+darling = { version = "0.20.9", default-features = false }
